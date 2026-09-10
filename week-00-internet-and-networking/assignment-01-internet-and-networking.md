@@ -215,9 +215,8 @@ Add the following credit note at the end of your post **(If you are DMI Campus s
 Paste your LinkedIn post URL here:
 
 ```text
-https://lnkd.in/p/ghtGa4TK
+https://www.linkedin.com/posts/activity-7503489873547362305-COm1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEMa-kwBlpo0DyM39Tyl_YclVsL8jRwxdhQ
 ```
-
 ---
 
 ## LinkedIn Post Backup Copy
