@@ -23,14 +23,6 @@ You will reuse this in later weeks. So do it properly once.
 
 # Assignment 1. What is something you believe to be true that most people around you would disagree with?
 
-### Rules
-
-- No "safe" answers.
-- Must be your real belief (not copied from internet).
-- Minimum 50 words.
-
-**Hint:** What do you believe about career, money, learning, discipline, relationships, health, success, life, tech industry, etc. that most people don't agree with?
-
 ## Answer
 
 I strongly believe that people don't really change, even when they said they do.
@@ -91,60 +83,6 @@ I used to think that saving money meant I shouldn't buy things for myself unless
 
 # Assignment 3. What does your 2.0 version look like?
 
-### Instructions
-
-Write as if a journalist is writing about you **3 to 7 years from now** (not 20 years).
-
-**Minimum 300 words.**
-
-### Rules
-
-- Write in past tense, like it already happened.
-- Don't use "likes to / wants to / hopes to."
-- Use specifics:
-  - built
-  - shipped
-  - led
-  - published
-  - earned
-  - relocated
-  - contributed
-
-- Include skills proof:
-  - projects
-  - portfolios
-  - GitHub
-  - blogs
-  - certifications
-  - job role
-  - leadership
-  - community contribution
-
-- Add 1–3 images if you can (optional but powerful).
-
-### Publish It Publicly On Any ONE
-
-- LinkedIn
-- Medium
-- WordPress
-- Blogspot
-- Personal blog
-- Portfolio page
-
-Use the credit note that matches your track:
-
-Add the following credit note at the end of your post **(If you are DMI Cohort 3 student)**:
-
-> **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=cohort3**
-
-Add the following credit note at the end of your post **(If you are DMI Self-paced track student)**:
-
-> **P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=self-paced**
-
-Add the following credit note at the end of your post **(If you are DMI Campus student)**:
-
-> **P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=campus**
-
 ## Your Article
 
 # My 2.0 Version
@@ -169,35 +107,13 @@ The person she became was not created overnight. Samyukta 2.0 was built from all
 
 ### Public Link
 
-Paste your link here:
-
 [medium post](https://medium.com/@asamyukta2006/my-2-0-version-9eeacf97ce0b)
 
 ---
 
 # Assignment 4. Have you ever cut corners (unethical / dishonest / shortcut behavior — not necessarily illegal)? If yes, how did it make you feel?
 
-### Important
-
-You don't need to write the full story.
-
-Focus on the feeling:
-
-- guilt
-- fear
-- shame
-- stress
-- regret
-- numbness
-- etc.
-
-This is about self-awareness, not judgment.
-
-### Answer Format
-
 **Yes**
-
-If Yes:
 
 **What emotion did you feel?** (minimum 50–100 words)
 
@@ -208,24 +124,6 @@ There was a time when I kept talking to someone even though I knew I did not fee
 ---
 
 # Assignment 5. What are 10 non-fiction books you plan to read in the next 1 year?
-
-### Rules
-
-- Mention **Title + Author**
-- Any language allowed
-- No fiction novels
-
-### Tip
-
-Choose books that improve:
-
-- mindset
-- communication
-- productivity
-- health
-- money
-- career
-- leadership
 
 ## Book List
 
@@ -244,27 +142,6 @@ Choose books that improve:
 
 # Assignment 6. What are the things you will measure regularly in your life and career?
 
-### Rules
-
-List topics only. No need to share numbers.
-
-### Must Include
-
-- Learning / skill
-- Output / proof
-- Health / energy
-- Time / focus
-- Money / finance (personal or business)
-
-### Example
-
-- Learning hours per week
-- Deep work sessions per week
-- Projects shipped / documented
-- Steps / workouts
-- Sleep hours
-- Spending tracker
-
 ## My Metrics
 
 - nutrients from my food
@@ -280,16 +157,6 @@ List topics only. No need to share numbers.
 ## Step 1: Brain Dump (Private)
 
 Do a brain dump of everything in your mind into a notebook.
-
-Examples:
-
-- Bills
-- Tasks
-- Worries
-- Goals
-- Pending messages
-- Ideas
-- Responsibilities
 
 ### Did You Do It?
 
@@ -335,14 +202,6 @@ Each session will be around 60–90 minutes, depending on the assignment.
 
 ---
 
-### Distraction Rules
-
-Examples:
-
-- Phone rules
-- Social media rules
-- Environment setup
-
 #### My Distraction Rules
 
 Keep my phone away during focused study sessions.
@@ -371,13 +230,11 @@ I will write down my three most important tasks for the week and decide when I w
 
 Paste your LinkedIn post link here:
 
-[Linedin post URL](https://lnkd.in/p/gQk8bTrP)
-
----
+## [Linedin post URL](https://www.linkedin.com/posts/activity-7505998222323154946-ZxH1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEMa-kwBlpo0DyM39Tyl_YclVsL8jRwxdhQ)
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: [Linkedin post url](https://lnkd.in/p/gQk8bTrP)
+- LinkedIn Post URL: [Linkedin post url](https://www.linkedin.com/posts/activity-7505998222323154946-ZxH1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEMa-kwBlpo0DyM39Tyl_YclVsL8jRwxdhQ)
 - Blog / Medium : [My 2.0 version](https://medium.com/@asamyukta2006/my-2-0-version-9eeacf97ce0b)
 
 ---
